@@ -2,3 +2,10 @@ a:
   b: "1"
 config:
   info: master branch,springboot-config/config-dev.yml version=1
+  
+eureka:
+  client:
+    register-with-eureka: true
+    fetchRegistry: true
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka
