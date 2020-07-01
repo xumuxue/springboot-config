@@ -1,7 +1,7 @@
 a:
   b: "1"
 config:
-  info: master branch,springboot-config/config-dev.yml version=1
+  info: master branch,springboot-config/config-dev.yml version=2
   
 eureka:
   client:
