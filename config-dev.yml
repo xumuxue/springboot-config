@@ -1,2 +1,4 @@
+a:
+  b: "1"
 config:
   info: master branch,springboot-config/config-dev.yml version=1
